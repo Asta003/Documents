@@ -5,8 +5,6 @@
 
 Формат основан на [Keep a Changelog](https://keepachangelog.com/ru/1.1.0/), проект придерживается [семантического версионирования](https://semver.org/lang/ru/). Обновления CI и внутренние правки, не влияющие на пользователей, сюда не попадают.
 
-## [Неизданное]
-
 ## [1.1.0] - 2025-10-27
 ### Добавлено
 - Новая песочница: клон Flappy Bird «Neon Pipelines» ([PR #4](https://github.com/Starbugstone/AI-Demo/pull/4)).
